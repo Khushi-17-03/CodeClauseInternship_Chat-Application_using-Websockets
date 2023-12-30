@@ -1,0 +1,20 @@
+{
+  "name": "chatter",
+  "version": "1.0.0",
+  "description": "Chat application using websocket for CodeClause Internship by Khushi Singh",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Khushi Singh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.30.1",
+    "socket.io": "^4.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
