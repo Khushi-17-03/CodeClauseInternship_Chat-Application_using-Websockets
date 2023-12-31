@@ -4,3 +4,4 @@ This project is created as for Task2 of Code Clause intwenship . The app is crea
 3.express
 4.socket.io
 the video describes the working of the aplication
+The link to the github Post is :https://www.linkedin.com/posts/contact-khushisingh_webdevelopment-codeclause-internship-activity-7146948908806553600-NV-F?utm_source=share&utm_medium=member_desktop
